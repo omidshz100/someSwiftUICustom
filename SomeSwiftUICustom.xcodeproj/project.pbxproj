@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D987F8AD2AD6CEB9001DB31D /* SomeSwiftUICustomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D987F8AC2AD6CEB9001DB31D /* SomeSwiftUICustomApp.swift */; };
-		D987F8AF2AD6CEB9001DB31D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D987F8AE2AD6CEB9001DB31D /* ContentView.swift */; };
+		D987F8AF2AD6CEB9001DB31D /* PlaceHolder_TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D987F8AE2AD6CEB9001DB31D /* PlaceHolder_TextField.swift */; };
 		D987F8B12AD6CEBA001DB31D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D987F8B02AD6CEBA001DB31D /* Assets.xcassets */; };
 		D987F8B42AD6CEBA001DB31D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D987F8B32AD6CEBA001DB31D /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		D987F8A92AD6CEB9001DB31D /* SomeSwiftUICustom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SomeSwiftUICustom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D987F8AC2AD6CEB9001DB31D /* SomeSwiftUICustomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeSwiftUICustomApp.swift; sourceTree = "<group>"; };
-		D987F8AE2AD6CEB9001DB31D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D987F8AE2AD6CEB9001DB31D /* PlaceHolder_TextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceHolder_TextField.swift; sourceTree = "<group>"; };
 		D987F8B02AD6CEBA001DB31D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D987F8B32AD6CEBA001DB31D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				D987F8AC2AD6CEB9001DB31D /* SomeSwiftUICustomApp.swift */,
-				D987F8AE2AD6CEB9001DB31D /* ContentView.swift */,
+				D987F8AE2AD6CEB9001DB31D /* PlaceHolder_TextField.swift */,
 				D987F8B02AD6CEBA001DB31D /* Assets.xcassets */,
 				D987F8B22AD6CEBA001DB31D /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D987F8AF2AD6CEB9001DB31D /* ContentView.swift in Sources */,
+				D987F8AF2AD6CEB9001DB31D /* PlaceHolder_TextField.swift in Sources */,
 				D987F8AD2AD6CEB9001DB31D /* SomeSwiftUICustomApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
