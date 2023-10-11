@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// init commmit in 11 October 2023 - 14:39 at Federico University
 struct ContentView: View {
     var body: some View {
         VStack {
